@@ -47,6 +47,8 @@ Sales volumes were significantly higher during non-recession periods across all 
 #### Insight:
 Economic stability leads to higher consumer confidence and increased automobile sales, especially for premium vehicle categories.
 
+![Q3](https://github.com/KumarBoste/Historical_Automobile_Sales/blob/main/Python%20%20Analysis/Q3.png)
+
 ### 4 Correlation Between Vehicle Price and Sales Volume (Scatter Plot)
 - A scatter plot was created to study the relationship between:
   - Average vehicle price
