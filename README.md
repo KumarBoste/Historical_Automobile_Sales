@@ -35,6 +35,8 @@ Automobile sales are cyclical and significantly impacted by economic slowdowns.
 #### Insight:
 Yes, there is a noticeable difference in sales trends between vehicle types during recessions. Affordable vehicles are more resilient during economic downturns.
 
+![Q2](https://github.com/KumarBoste/Historical_Automobile_Sales/blob/main/Python%20%20Analysis/Q2.png)
+
 ### 3. Comparison of Recession vs Non-Recession Sales (Matplotlib Visualization)
 - Using Matplotlib, sales trends per vehicle type were compared between:
   - Recession periods
