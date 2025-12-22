@@ -59,6 +59,8 @@ Economic stability leads to higher consumer confidence and increased automobile 
 #### Insight:
 During recessions, consumers are more price-sensitive, leading to reduced sales of expensive vehicles.
 
+![Q4](https://github.com/KumarBoste/Historical_Automobile_Sales/blob/main/Python%20%20Analysis/Q4.png)
+
 ### 5 Advertising Expenditure Distribution (Pie Chart)
 - A pie chart was used to visualize advertising expenditure during:
   - Recession periods
