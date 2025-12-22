@@ -24,6 +24,8 @@ The key problems addressed in this project are:
 #### Insight:
 Automobile sales are cyclical and significantly impacted by economic slowdowns.
 
+![Q1](https://github.com/KumarBoste/Historical_Automobile_Sales/blob/main/Python%20%20Analysis/Q1.png)
+
 ### 2. Vehicle Type Sales Trend During Recession (Multiple Line Chart)
 -Sales trends for different vehicle categories (e.g., Small cars, Medium cars, SUVs) were plotted on the same graph.
 - During recession periods:
