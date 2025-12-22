@@ -70,6 +70,8 @@ During recessions, consumers are more price-sensitive, leading to reduced sales 
 #### Insight:
 Companies tend to reduce marketing expenses during recessions to control costs, which may further impact sales.
 
+![Q5](https://github.com/KumarBoste/Historical_Automobile_Sales/blob/main/Python%20%20Analysis/Q5.png)
+
 ## Conclusion
 This project demonstrates how economic conditions significantly influence automobile sales performance. Through data visualization and analysis:
 - Sales decline noticeably during recession periods
