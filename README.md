@@ -27,7 +27,7 @@ Automobile sales are cyclical and significantly impacted by economic slowdowns.
 ![Q1](https://github.com/KumarBoste/Historical_Automobile_Sales/blob/main/Python%20%20Analysis/Q1.png)
 
 ### 2. Vehicle Type Sales Trend During Recession (Multiple Line Chart)
--Sales trends for different vehicle categories (e.g., Small cars, Medium cars, SUVs) were plotted on the same graph.
+- Sales trends for different vehicle categories (e.g., Small cars, Medium cars, SUVs) were plotted on the same graph.
 - During recession periods:
   - Sales of luxury and high-priced vehicles declined sharply.
   - Economy and small vehicles showed comparatively stable demand.
